@@ -58,6 +58,3 @@
 В отличие от цифровизации, цифровая трансформация охватывает всю структуру организации и ведет к качественным изменениям, расширению возможностей и повышению конкурентоспособности.
 
 
-[15](https://research-journal.org/archive/2-140-2024-february/10.23670/IRJ.2024.140.22)
-[16](http://u3a.itmo.ru/tema1.html)
-[17](https://mirbis.ru/experts-stories/chto-takoe-tsifrovaya-ekonomika-i-zachem-ona-nuzhna/)
