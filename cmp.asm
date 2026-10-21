@@ -1,3 +1,5 @@
+; https://metanit.com/assembler/nasm/2.7.php
+
 default rel   
 global main    
 extern printf   
